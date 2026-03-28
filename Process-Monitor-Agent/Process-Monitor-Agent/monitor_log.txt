@@ -1,0 +1,783 @@
+[2026-03-10 19:10:50] Monitoring agent started
+[2026-03-10 19:10:50] Process Detected: System Idle Process (PID:0)
+[2026-03-10 19:10:50] Parent -> Child : System Idle Process -> System Idle Process
+[2026-03-10 19:10:50] Process Detected: System (PID:4)
+[2026-03-10 19:10:50] Parent -> Child : System Idle Process -> System
+[2026-03-10 19:10:50] Process Detected:  (PID:188)
+[2026-03-10 19:10:50] Parent -> Child : System -> 
+[2026-03-10 19:10:50] [INFO] Unknown process detected: 
+[2026-03-10 19:10:50] Process Detected: conhost.exe (PID:208)
+[2026-03-10 19:10:50] Parent -> Child : pet.exe -> conhost.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: conhost.exe
+[2026-03-10 19:10:50] Process Detected: Registry (PID:232)
+[2026-03-10 19:10:50] Parent -> Child : System -> Registry
+[2026-03-10 19:10:50] [INFO] Unknown process detected: Registry
+[2026-03-10 19:10:50] Process Detected: smss.exe (PID:768)
+[2026-03-10 19:10:50] Parent -> Child : System -> smss.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: smss.exe
+[2026-03-10 19:10:50] Process Detected: csrss.exe (PID:1120)
+[2026-03-10 19:10:50] Parent -> Child : Unknown -> csrss.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: csrss.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:1220)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: wininit.exe (PID:1228)
+[2026-03-10 19:10:50] Parent -> Child : Unknown -> wininit.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:1300)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: services.exe (PID:1304)
+[2026-03-10 19:10:50] Parent -> Child : wininit.exe -> services.exe
+[2026-03-10 19:10:50] Process Detected: LsaIso.exe (PID:1324)
+[2026-03-10 19:10:50] Parent -> Child : wininit.exe -> LsaIso.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: LsaIso.exe
+[2026-03-10 19:10:50] Process Detected: lsass.exe (PID:1332)
+[2026-03-10 19:10:50] Parent -> Child : wininit.exe -> lsass.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:1344)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: ai.exe (PID:1432)
+[2026-03-10 19:10:50] Parent -> Child : WINWORD.EXE -> ai.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: ai.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:1452)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:1540)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: fontdrvhost.exe (PID:1572)
+[2026-03-10 19:10:50] Parent -> Child : wininit.exe -> fontdrvhost.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: fontdrvhost.exe
+[2026-03-10 19:10:50] Process Detected: WUDFHost.exe (PID:1616)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> WUDFHost.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: WUDFHost.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:1708)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: chrome.exe (PID:1752)
+[2026-03-10 19:10:50] Parent -> Child : explorer.exe -> chrome.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:1768)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: WUDFHost.exe (PID:1820)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> WUDFHost.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: WUDFHost.exe
+[2026-03-10 19:10:50] Process Detected: chrome.exe (PID:1976)
+[2026-03-10 19:10:50] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:50] Process Detected: RtkAudUService64.exe (PID:1996)
+[2026-03-10 19:10:50] Parent -> Child : RtkAudUService64.exe -> RtkAudUService64.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: RtkAudUService64.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:2000)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:2008)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:2016)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: updater.exe (PID:2036)
+[2026-03-10 19:10:50] Parent -> Child : updater.exe -> updater.exe
+[2026-03-10 19:10:50] [INFO] Unknown process detected: updater.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:2056)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:2200)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:2216)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:50] Process Detected: svchost.exe (PID:2224)
+[2026-03-10 19:10:50] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: chrome.exe (PID:2256)
+[2026-03-10 19:10:51] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2260)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2292)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2348)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2380)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2404)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2476)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2660)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: dllhost.exe (PID:2712)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> dllhost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: dllhost.exe
+[2026-03-10 19:10:51] Process Detected: sqlceip.exe (PID:2868)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> sqlceip.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: sqlceip.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2900)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: winlogon.exe (PID:2952)
+[2026-03-10 19:10:51] Parent -> Child : Unknown -> winlogon.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: winlogon.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:2964)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: IntelCpHDCPSvc.exe (PID:2976)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> IntelCpHDCPSvc.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: IntelCpHDCPSvc.exe
+[2026-03-10 19:10:51] Process Detected: conhost.exe (PID:3012)
+[2026-03-10 19:10:51] Parent -> Child : HP.OMEN.VadRedirectHelper.exe -> conhost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: conhost.exe
+[2026-03-10 19:10:51] Process Detected: unsecapp.exe (PID:3084)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> unsecapp.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: unsecapp.exe
+[2026-03-10 19:10:51] Process Detected: OmenCap.exe (PID:3124)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> OmenCap.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: OmenCap.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3224)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: backgroundTaskHost.exe (PID:3240)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:10:51] Process Detected: NVDisplay.Container.exe (PID:3276)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> NVDisplay.Container.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: NVDisplay.Container.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3284)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3372)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3404)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: SDXHelper.exe (PID:3428)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> SDXHelper.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: SDXHelper.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3440)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3480)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3496)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3500)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: HPSystemEventUtilityBackground.exe (PID:3568)
+[2026-03-10 19:10:51] Parent -> Child : Unknown -> HPSystemEventUtilityBackground.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: HPSystemEventUtilityBackground.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3636)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: SECOCL64.exe (PID:3648)
+[2026-03-10 19:10:51] Parent -> Child : SECOMN64.exe -> SECOCL64.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: SECOCL64.exe
+[2026-03-10 19:10:51] Process Detected: MemCompression (PID:3660)
+[2026-03-10 19:10:51] Parent -> Child : System -> MemCompression
+[2026-03-10 19:10:51] [INFO] Unknown process detected: MemCompression
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3760)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3796)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:3800)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: AppHelperCap.exe (PID:3888)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> AppHelperCap.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: AppHelperCap.exe
+[2026-03-10 19:10:51] Process Detected: NetworkCap.exe (PID:3896)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> NetworkCap.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: NetworkCap.exe
+[2026-03-10 19:10:51] Process Detected: TouchpointAnalyticsClientService.exe (PID:3908)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> TouchpointAnalyticsClientService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: TouchpointAnalyticsClientService.exe
+[2026-03-10 19:10:51] Process Detected: SysInfoCap.exe (PID:3916)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> SysInfoCap.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: SysInfoCap.exe
+[2026-03-10 19:10:51] Process Detected: DiagsCap.exe (PID:3984)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> DiagsCap.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: DiagsCap.exe
+[2026-03-10 19:10:51] Process Detected: SearchHost.exe (PID:4016)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> SearchHost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: SearchHost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:4068)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: hp-one-agent-service.exe (PID:4120)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> hp-one-agent-service.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: hp-one-agent-service.exe
+[2026-03-10 19:10:51] Process Detected: RuntimeBroker.exe (PID:4240)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:4264)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:4408)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: RuntimeBroker.exe (PID:4464)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:4508)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: msedgewebview2.exe (PID:4544)
+[2026-03-10 19:10:51] Parent -> Child : SearchHost.exe -> msedgewebview2.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: msedgewebview2.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:4616)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: HPMediaNetwork.exe (PID:4856)
+[2026-03-10 19:10:51] Parent -> Child : Unknown -> HPMediaNetwork.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: HPMediaNetwork.exe
+[2026-03-10 19:10:51] Process Detected: WmiPrvSE.exe (PID:4860)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> WmiPrvSE.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: WmiPrvSE.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5016)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5024)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: unsecapp.exe (PID:5100)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> unsecapp.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: unsecapp.exe
+[2026-03-10 19:10:51] Process Detected: ipf_helper.exe (PID:5132)
+[2026-03-10 19:10:51] Parent -> Child : ipf_uf.exe -> ipf_helper.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: ipf_helper.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5172)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5192)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: spoolsv.exe (PID:5216)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> spoolsv.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: spoolsv.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5336)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: AggregatorHost.exe (PID:5412)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> AggregatorHost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: AggregatorHost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5416)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5452)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5468)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: OfficeClickToRun.exe (PID:5476)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> OfficeClickToRun.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: OfficeClickToRun.exe
+[2026-03-10 19:10:51] Process Detected: ETDService.exe (PID:5568)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> ETDService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: ETDService.exe
+[2026-03-10 19:10:51] Process Detected: HPCommRecovery.exe (PID:5580)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> HPCommRecovery.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: HPCommRecovery.exe
+[2026-03-10 19:10:51] Process Detected: SECOMN64.exe (PID:5592)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> SECOMN64.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: SECOMN64.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5604)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: HPPrintScanDoctorService.exe (PID:5612)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> HPPrintScanDoctorService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: HPPrintScanDoctorService.exe
+[2026-03-10 19:10:51] Process Detected: jhi_service.exe (PID:5636)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> jhi_service.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: jhi_service.exe
+[2026-03-10 19:10:51] Process Detected: OneApp.IGCC.WinService.exe (PID:5664)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> OneApp.IGCC.WinService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: OneApp.IGCC.WinService.exe
+[2026-03-10 19:10:51] Process Detected: dasHost.exe (PID:5680)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> dasHost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: dasHost.exe
+[2026-03-10 19:10:51] Process Detected: csrss.exe (PID:5760)
+[2026-03-10 19:10:51] Parent -> Child : Unknown -> csrss.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: csrss.exe
+[2026-03-10 19:10:51] Process Detected: MpDefenderCoreService.exe (PID:5816)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> MpDefenderCoreService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: MpDefenderCoreService.exe
+[2026-03-10 19:10:51] Process Detected: redis-server.exe (PID:5844)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> redis-server.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: redis-server.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:5952)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: ipf_uf.exe (PID:5976)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> ipf_uf.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: ipf_uf.exe
+[2026-03-10 19:10:51] Process Detected: sqlwriter.exe (PID:5988)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> sqlwriter.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: sqlwriter.exe
+[2026-03-10 19:10:51] Process Detected: MsMpEng.exe (PID:6012)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> MsMpEng.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: MsMpEng.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:6044)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:6072)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: IntelAudioService.exe (PID:6100)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> IntelAudioService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: IntelAudioService.exe
+[2026-03-10 19:10:51] Process Detected: remoting_host.exe (PID:6120)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> remoting_host.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: remoting_host.exe
+[2026-03-10 19:10:51] Process Detected: fpprotect.exe (PID:6172)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> fpprotect.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: fpprotect.exe
+[2026-03-10 19:10:51] Process Detected: vmware-authd.exe (PID:6224)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> vmware-authd.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: vmware-authd.exe
+[2026-03-10 19:10:51] Process Detected: vmnat.exe (PID:6248)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> vmnat.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: vmnat.exe
+[2026-03-10 19:10:51] Process Detected: pet.exe (PID:6256)
+[2026-03-10 19:10:51] Parent -> Child : Code.exe -> pet.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: pet.exe
+[2026-03-10 19:10:51] Process Detected: WMIRegistrationService.exe (PID:6296)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> WMIRegistrationService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: WMIRegistrationService.exe
+[2026-03-10 19:10:51] Process Detected: RtkAudUService64.exe (PID:6304)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> RtkAudUService64.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: RtkAudUService64.exe
+[2026-03-10 19:10:51] Process Detected: vmware-usbarbitrator64.exe (PID:6368)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> vmware-usbarbitrator64.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: vmware-usbarbitrator64.exe
+[2026-03-10 19:10:51] Process Detected: vmnetdhcp.exe (PID:6376)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> vmnetdhcp.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: vmnetdhcp.exe
+[2026-03-10 19:10:51] Process Detected: wslservice.exe (PID:6520)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> wslservice.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: wslservice.exe
+[2026-03-10 19:10:51] Process Detected: OmenCommandCenterBackground.exe (PID:6568)
+[2026-03-10 19:10:51] Parent -> Child : Unknown -> OmenCommandCenterBackground.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: OmenCommandCenterBackground.exe
+[2026-03-10 19:10:51] Process Detected: updater.exe (PID:6712)
+[2026-03-10 19:10:51] Parent -> Child : updater.exe -> updater.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: updater.exe
+[2026-03-10 19:10:51] Process Detected: XtuService.exe (PID:6736)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> XtuService.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: XtuService.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:6876)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:6888)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:6904)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:6944)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: sihost.exe (PID:7200)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> sihost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: sihost.exe
+[2026-03-10 19:10:51] Process Detected: remoting_host.exe (PID:7228)
+[2026-03-10 19:10:51] Parent -> Child : remoting_host.exe -> remoting_host.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: remoting_host.exe
+[2026-03-10 19:10:51] Process Detected: ctfmon.exe (PID:7436)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> ctfmon.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: ctfmon.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:7472)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: Code.exe (PID:7648)
+[2026-03-10 19:10:51] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:51] Process Detected: wlanext.exe (PID:7760)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> wlanext.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: wlanext.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:7784)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:51] Process Detected: backgroundTaskHost.exe (PID:7788)
+[2026-03-10 19:10:51] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:10:51] Process Detected: msedgewebview2.exe (PID:7840)
+[2026-03-10 19:10:51] Parent -> Child : msedgewebview2.exe -> msedgewebview2.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: msedgewebview2.exe
+[2026-03-10 19:10:51] Process Detected: NisSrv.exe (PID:8056)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> NisSrv.exe
+[2026-03-10 19:10:51] [INFO] Unknown process detected: NisSrv.exe
+[2026-03-10 19:10:51] Process Detected: svchost.exe (PID:8072)
+[2026-03-10 19:10:51] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: WidgetService.exe (PID:8088)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> WidgetService.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: WidgetService.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:8124)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:8144)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:8180)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:8528)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: fontdrvhost.exe (PID:8732)
+[2026-03-10 19:10:52] Parent -> Child : winlogon.exe -> fontdrvhost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: fontdrvhost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:8820)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:8880)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: OverlayHelper.exe (PID:9200)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> OverlayHelper.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: OverlayHelper.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:9204)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: SystemSettings.exe (PID:9228)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> SystemSettings.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: SystemSettings.exe
+[2026-03-10 19:10:52] Process Detected: python.exe (PID:9372)
+[2026-03-10 19:10:52] Parent -> Child : powershell.exe -> python.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:9544)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:9644)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: WINWORD.EXE (PID:9696)
+[2026-03-10 19:10:52] Parent -> Child : explorer.exe -> WINWORD.EXE
+[2026-03-10 19:10:52] [INFO] Unknown process detected: WINWORD.EXE
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:9888)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: sqlservr.exe (PID:9920)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> sqlservr.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: sqlservr.exe
+[2026-03-10 19:10:52] Process Detected: msedgewebview2.exe (PID:9936)
+[2026-03-10 19:10:52] Parent -> Child : msedgewebview2.exe -> msedgewebview2.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: msedgewebview2.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:10008)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:10212)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: OneDrive.Sync.Service.exe (PID:10384)
+[2026-03-10 19:10:52] Parent -> Child : Unknown -> OneDrive.Sync.Service.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: OneDrive.Sync.Service.exe
+[2026-03-10 19:10:52] Process Detected: RuntimeBroker.exe (PID:10404)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:10:52] Process Detected: dasHost.exe (PID:10424)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> dasHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: dasHost.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:10476)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:10508)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: SystemOptimizer.exe (PID:10528)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> SystemOptimizer.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: SystemOptimizer.exe
+[2026-03-10 19:10:52] Process Detected: conhost.exe (PID:10564)
+[2026-03-10 19:10:52] Parent -> Child : HP.OMEN.VirtualCamHelper.exe -> conhost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: conhost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:10672)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:10800)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: audiodg.exe (PID:10804)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> audiodg.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: audiodg.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:10868)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: fpworker.exe (PID:10956)
+[2026-03-10 19:10:52] Parent -> Child : Unknown -> fpworker.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: fpworker.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:11140)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:11328)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: aimgr.exe (PID:11388)
+[2026-03-10 19:10:52] Parent -> Child : WINWORD.EXE -> aimgr.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: aimgr.exe
+[2026-03-10 19:10:52] Process Detected: HPSystemEventUtilityHost.exe (PID:11432)
+[2026-03-10 19:10:52] Parent -> Child : HPSystemEventUtilityBackground.exe -> HPSystemEventUtilityHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: HPSystemEventUtilityHost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:11448)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: Widgets.exe (PID:11884)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> Widgets.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: Widgets.exe
+[2026-03-10 19:10:52] Process Detected: SearchIndexer.exe (PID:12060)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> SearchIndexer.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: SearchIndexer.exe
+[2026-03-10 19:10:52] Process Detected: conhost.exe (PID:12304)
+[2026-03-10 19:10:52] Parent -> Child : fpworker.exe -> conhost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: conhost.exe
+[2026-03-10 19:10:52] Process Detected: LightStudio-background.exe (PID:12436)
+[2026-03-10 19:10:52] Parent -> Child : sihost.exe -> LightStudio-background.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: LightStudio-background.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:12472)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:12500)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: powershell.exe (PID:12508)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> powershell.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:12676)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: CrossDeviceService.exe (PID:12732)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> CrossDeviceService.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: CrossDeviceService.exe
+[2026-03-10 19:10:52] Process Detected: ETDCtrl.exe (PID:12848)
+[2026-03-10 19:10:52] Parent -> Child : ETDService.exe -> ETDCtrl.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: ETDCtrl.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:12872)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:12896)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: conhost.exe (PID:12940)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> conhost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: conhost.exe
+[2026-03-10 19:10:52] Process Detected: msedgewebview2.exe (PID:13016)
+[2026-03-10 19:10:52] Parent -> Child : msedgewebview2.exe -> msedgewebview2.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: msedgewebview2.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:13068)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: WmiPrvSE.exe (PID:13076)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> WmiPrvSE.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: WmiPrvSE.exe
+[2026-03-10 19:10:52] Process Detected: updater.exe (PID:13200)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> updater.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: updater.exe
+[2026-03-10 19:10:52] Process Detected: vmcompute.exe (PID:13352)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> vmcompute.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: vmcompute.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:13380)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: CrossDeviceResume.exe (PID:13384)
+[2026-03-10 19:10:52] Parent -> Child : sihost.exe -> CrossDeviceResume.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: CrossDeviceResume.exe
+[2026-03-10 19:10:52] Process Detected: NVDisplay.Container.exe (PID:13628)
+[2026-03-10 19:10:52] Parent -> Child : NVDisplay.Container.exe -> NVDisplay.Container.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: NVDisplay.Container.exe
+[2026-03-10 19:10:52] Process Detected: MidiSrv.exe (PID:13748)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> MidiSrv.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: MidiSrv.exe
+[2026-03-10 19:10:52] Process Detected: powershell.exe (PID:13824)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> powershell.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:13924)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: RuntimeBroker.exe (PID:14164)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:14236)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: RuntimeBroker.exe (PID:14464)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:10:52] Process Detected: HP.OMEN.VadRedirectHelper.exe (PID:14712)
+[2026-03-10 19:10:52] Parent -> Child : OmenCommandCenterBackground.exe -> HP.OMEN.VadRedirectHelper.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: HP.OMEN.VadRedirectHelper.exe
+[2026-03-10 19:10:52] Process Detected: smartscreen.exe (PID:14856)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> smartscreen.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: smartscreen.exe
+[2026-03-10 19:10:52] Process Detected: explorer.exe (PID:15016)
+[2026-03-10 19:10:52] Parent -> Child : Unknown -> explorer.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:15152)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:15196)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: backgroundTaskHost.exe (PID:15480)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:10:52] Process Detected: vmware-tray.exe (PID:15492)
+[2026-03-10 19:10:52] Parent -> Child : Unknown -> vmware-tray.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: vmware-tray.exe
+[2026-03-10 19:10:52] Process Detected: RuntimeBroker.exe (PID:15636)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:16132)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: SecurityHealthService.exe (PID:16224)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> SecurityHealthService.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: SecurityHealthService.exe
+[2026-03-10 19:10:52] Process Detected: PhoneExperienceHost.exe (PID:16336)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> PhoneExperienceHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: PhoneExperienceHost.exe
+[2026-03-10 19:10:52] Process Detected: HP.HPX.exe (PID:16396)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> HP.HPX.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: HP.HPX.exe
+[2026-03-10 19:10:52] Process Detected: ApplicationFrameHost.exe (PID:16484)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> ApplicationFrameHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: ApplicationFrameHost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:16808)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: msedgewebview2.exe (PID:16904)
+[2026-03-10 19:10:52] Parent -> Child : msedgewebview2.exe -> msedgewebview2.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: msedgewebview2.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:16992)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:17048)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:17356)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:17556)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: DesktopExtension.exe (PID:18028)
+[2026-03-10 19:10:52] Parent -> Child : WidgetService.exe -> DesktopExtension.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: DesktopExtension.exe
+[2026-03-10 19:10:52] Process Detected: HP.OMEN.VirtualCamHelper.exe (PID:18072)
+[2026-03-10 19:10:52] Parent -> Child : OmenCommandCenterBackground.exe -> HP.OMEN.VirtualCamHelper.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: HP.OMEN.VirtualCamHelper.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:18164)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:18172)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:18316)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:18356)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:18468)
+[2026-03-10 19:10:52] Parent -> Child : Unknown -> Code.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:18548)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: OmenInstallMonitor.exe (PID:18684)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> OmenInstallMonitor.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: OmenInstallMonitor.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:18736)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:18780)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: msedgewebview2.exe (PID:18960)
+[2026-03-10 19:10:52] Parent -> Child : msedgewebview2.exe -> msedgewebview2.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: msedgewebview2.exe
+[2026-03-10 19:10:52] Process Detected: UserOOBEBroker.exe (PID:19148)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> UserOOBEBroker.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: UserOOBEBroker.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:19176)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: backgroundTaskHost.exe (PID:19392)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:10:52] Process Detected: RtkAudUService64.exe (PID:19432)
+[2026-03-10 19:10:52] Parent -> Child : explorer.exe -> RtkAudUService64.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: RtkAudUService64.exe
+[2026-03-10 19:10:52] Process Detected: SecurityHealthSystray.exe (PID:19480)
+[2026-03-10 19:10:52] Parent -> Child : explorer.exe -> SecurityHealthSystray.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: SecurityHealthSystray.exe
+[2026-03-10 19:10:52] Process Detected: ShellHost.exe (PID:19768)
+[2026-03-10 19:10:52] Parent -> Child : sihost.exe -> ShellHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: ShellHost.exe
+[2026-03-10 19:10:52] Process Detected: dwm.exe (PID:19772)
+[2026-03-10 19:10:52] Parent -> Child : winlogon.exe -> dwm.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: dwm.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:19776)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:19960)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: chrome.exe (PID:20100)
+[2026-03-10 19:10:52] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:10:52] Process Detected: TouchpointGpuInfo.exe (PID:20228)
+[2026-03-10 19:10:52] Parent -> Child : TouchpointAnalyticsClientService.exe -> TouchpointGpuInfo.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: TouchpointGpuInfo.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:20316)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: Code.exe (PID:20388)
+[2026-03-10 19:10:52] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:52] Process Detected: taskhostw.exe (PID:20460)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> taskhostw.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: taskhostw.exe
+[2026-03-10 19:10:52] Process Detected: taskhostw.exe (PID:20476)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> taskhostw.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: taskhostw.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:20716)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: TextInputHost.exe (PID:20756)
+[2026-03-10 19:10:52] Parent -> Child : svchost.exe -> TextInputHost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: TextInputHost.exe
+[2026-03-10 19:10:52] Process Detected: conhost.exe (PID:20832)
+[2026-03-10 19:10:52] Parent -> Child : SECOCL64.exe -> conhost.exe
+[2026-03-10 19:10:52] [INFO] Unknown process detected: conhost.exe
+[2026-03-10 19:10:52] Process Detected: svchost.exe (PID:20884)
+[2026-03-10 19:10:52] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:52] Process Detected: RuntimeBroker.exe (PID:21212)
+[2026-03-10 19:10:53] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:10:53] Process Detected: svchost.exe (PID:21460)
+[2026-03-10 19:10:53] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:53] Process Detected: Code.exe (PID:21536)
+[2026-03-10 19:10:53] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:53] Process Detected: Code.exe (PID:21636)
+[2026-03-10 19:10:53] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:53] Process Detected: StartMenuExperienceHost.exe (PID:22108)
+[2026-03-10 19:10:53] Parent -> Child : svchost.exe -> StartMenuExperienceHost.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: StartMenuExperienceHost.exe
+[2026-03-10 19:10:53] Process Detected: FileCoAuth.exe (PID:22356)
+[2026-03-10 19:10:53] Parent -> Child : svchost.exe -> FileCoAuth.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: FileCoAuth.exe
+[2026-03-10 19:10:53] Process Detected: AppActions.exe (PID:22360)
+[2026-03-10 19:10:53] Parent -> Child : svchost.exe -> AppActions.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: AppActions.exe
+[2026-03-10 19:10:53] Process Detected: backgroundTaskHost.exe (PID:22436)
+[2026-03-10 19:10:53] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:10:53] Process Detected: conhost.exe (PID:22484)
+[2026-03-10 19:10:53] Parent -> Child : Code.exe -> conhost.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: conhost.exe
+[2026-03-10 19:10:53] Process Detected: ShellExperienceHost.exe (PID:22760)
+[2026-03-10 19:10:53] Parent -> Child : svchost.exe -> ShellExperienceHost.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: ShellExperienceHost.exe
+[2026-03-10 19:10:53] Process Detected: svchost.exe (PID:23156)
+[2026-03-10 19:10:53] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:10:53] Process Detected: Code.exe (PID:23308)
+[2026-03-10 19:10:53] Parent -> Child : Code.exe -> Code.exe
+[2026-03-10 19:10:53] Process Detected: updater.exe (PID:23344)
+[2026-03-10 19:10:53] Parent -> Child : services.exe -> updater.exe
+[2026-03-10 19:10:53] [INFO] Unknown process detected: updater.exe
+[2026-03-10 19:10:53] Checking Windows services...
+[2026-03-10 19:10:53] Service Found: ADPSvc
+[2026-03-10 19:10:53] Service Found: ALG
+[2026-03-10 19:10:53] Service Found: AppIDSvc
+[2026-03-10 19:10:53] Service Found: Appinfo
+[2026-03-10 19:10:53] Service Found: AppReadiness
+[2026-03-10 19:11:03] Checking Windows services...
+[2026-03-10 19:11:03] Service Found: ADPSvc
+[2026-03-10 19:11:03] Service Found: ALG
+[2026-03-10 19:11:03] Service Found: AppIDSvc
+[2026-03-10 19:11:03] Service Found: Appinfo
+[2026-03-10 19:11:03] Service Found: AppReadiness
+[2026-03-10 19:11:13] Process Detected: backgroundTaskHost.exe (PID:984)
+[2026-03-10 19:11:13] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:11:13] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:11:13] Process Detected: svchost.exe (PID:3068)
+[2026-03-10 19:11:13] Parent -> Child : services.exe -> svchost.exe
+[2026-03-10 19:11:13] Process Detected: backgroundTaskHost.exe (PID:3628)
+[2026-03-10 19:11:13] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:11:13] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:11:13] Process Detected: backgroundTaskHost.exe (PID:7244)
+[2026-03-10 19:11:13] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:11:13] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:11:13] Process Detected: RuntimeBroker.exe (PID:9932)
+[2026-03-10 19:11:13] Parent -> Child : svchost.exe -> RuntimeBroker.exe
+[2026-03-10 19:11:13] [INFO] Unknown process detected: RuntimeBroker.exe
+[2026-03-10 19:11:13] Process Detected: backgroundTaskHost.exe (PID:15576)
+[2026-03-10 19:11:13] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:11:13] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:11:13] Process Detected: chrome.exe (PID:19764)
+[2026-03-10 19:11:13] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:11:13] Process Detected: backgroundTaskHost.exe (PID:22196)
+[2026-03-10 19:11:13] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:11:13] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:11:13] Process Detected: backgroundTaskHost.exe (PID:22500)
+[2026-03-10 19:11:13] Parent -> Child : svchost.exe -> backgroundTaskHost.exe
+[2026-03-10 19:11:13] [INFO] Unknown process detected: backgroundTaskHost.exe
+[2026-03-10 19:11:13] Checking Windows services...
+[2026-03-10 19:11:13] Service Found: ADPSvc
+[2026-03-10 19:11:13] Service Found: ALG
+[2026-03-10 19:11:13] Service Found: AppIDSvc
+[2026-03-10 19:11:13] Service Found: Appinfo
+[2026-03-10 19:11:13] Service Found: AppReadiness
+[2026-03-10 19:11:23] Checking Windows services...
+[2026-03-10 19:11:23] Service Found: ADPSvc
+[2026-03-10 19:11:23] Service Found: ALG
+[2026-03-10 19:11:23] Service Found: AppIDSvc
+[2026-03-10 19:11:23] Service Found: Appinfo
+[2026-03-10 19:11:23] Service Found: AppReadiness
+[2026-03-10 19:11:33] Checking Windows services...
+[2026-03-10 19:11:33] Service Found: ADPSvc
+[2026-03-10 19:11:33] Service Found: ALG
+[2026-03-10 19:11:33] Service Found: AppIDSvc
+[2026-03-10 19:11:33] Service Found: Appinfo
+[2026-03-10 19:11:33] Service Found: AppReadiness
+[2026-03-10 19:11:43] Checking Windows services...
+[2026-03-10 19:11:43] Service Found: ADPSvc
+[2026-03-10 19:11:43] Service Found: ALG
+[2026-03-10 19:11:43] Service Found: AppIDSvc
+[2026-03-10 19:11:43] Service Found: Appinfo
+[2026-03-10 19:11:43] Service Found: AppReadiness
+[2026-03-10 19:11:53] Checking Windows services...
+[2026-03-10 19:11:53] Service Found: ADPSvc
+[2026-03-10 19:11:53] Service Found: ALG
+[2026-03-10 19:11:53] Service Found: AppIDSvc
+[2026-03-10 19:11:53] Service Found: Appinfo
+[2026-03-10 19:11:53] Service Found: AppReadiness
+[2026-03-10 19:12:03] Checking Windows services...
+[2026-03-10 19:12:03] Service Found: ADPSvc
+[2026-03-10 19:12:03] Service Found: ALG
+[2026-03-10 19:12:03] Service Found: AppIDSvc
+[2026-03-10 19:12:03] Service Found: Appinfo
+[2026-03-10 19:12:03] Service Found: AppReadiness
+[2026-03-10 19:12:14] Process Detected: chrome.exe (PID:9968)
+[2026-03-10 19:12:14] Parent -> Child : chrome.exe -> chrome.exe
+[2026-03-10 19:12:14] Checking Windows services...
+[2026-03-10 19:12:14] Service Found: ADPSvc
+[2026-03-10 19:12:14] Service Found: ALG
+[2026-03-10 19:12:14] Service Found: AppIDSvc
+[2026-03-10 19:12:14] Service Found: Appinfo
+[2026-03-10 19:12:14] Service Found: AppReadiness
+[2026-03-10 19:12:24] Checking Windows services...
+[2026-03-10 19:12:24] Service Found: ADPSvc
+[2026-03-10 19:12:24] Service Found: ALG
+[2026-03-10 19:12:24] Service Found: AppIDSvc
+[2026-03-10 19:12:24] Service Found: Appinfo
+[2026-03-10 19:12:24] Service Found: AppReadiness
+[2026-03-10 19:12:34] Checking Windows services...
+[2026-03-10 19:12:34] Service Found: ADPSvc
+[2026-03-10 19:12:34] Service Found: ALG
+[2026-03-10 19:12:34] Service Found: AppIDSvc
+[2026-03-10 19:12:34] Service Found: Appinfo
+[2026-03-10 19:12:34] Service Found: AppReadiness
+[2026-03-10 19:12:44] Checking Windows services...
+[2026-03-10 19:12:44] Service Found: ADPSvc
+[2026-03-10 19:12:44] Service Found: ALG
+[2026-03-10 19:12:44] Service Found: AppIDSvc
+[2026-03-10 19:12:44] Service Found: Appinfo
+[2026-03-10 19:12:44] Service Found: AppReadiness

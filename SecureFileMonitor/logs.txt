@@ -1,0 +1,34 @@
+Thu Mar 26 17:32:45 2026 - [CREATE] C:/Users/Public\test.txt
+Thu Mar 26 17:34:29 2026 - [MODIFY] C:/Users/Public\test.txt
+Thu Mar 26 17:34:29 2026 - Hash: cfeadd1353bcc2d50a484de47f12069ea0fce82ae748ff27b54559ddd028f443
+Thu Mar 26 17:34:46 2026 - [DELETE] C:/Users/Public\test.txt
+Thu Mar 26 17:39:40 2026 - [INFO] File created: C:/Users/Public\demo.txt (Non-sensitive)
+Thu Mar 26 17:45:35 2026 - [INFO] File created: C:/Users/Public\secret.txt (Non-sensitive)
+Thu Mar 26 17:50:35 2026 - [ALERT] Sensitive file created: C:/Users/Public\secret.pdf
+Thu Mar 26 17:52:20 2026 - [ALERT] Sensitive file modified: C:/Users/Public\secret.pdf
+Thu Mar 26 17:52:20 2026 - [AUTHORIZED] No change detected
+Thu Mar 26 17:52:20 2026 - Generated Hash: c745af696146414ece34df19af219c3ad9d2f9a4c8bfe6d804b9a0277f292f24
+Thu Mar 26 17:52:44 2026 - [ALERT] Sensitive file modified: C:/Users/Public\secret.pdf
+Thu Mar 26 17:52:44 2026 - [WARNING] Unauthorized modification detected!
+Thu Mar 26 17:52:44 2026 - Generated Hash: 16dfdc493a1645d2815762b7d4e49282bb91becb7b211af78c5c89a1c8390ab7
+Thu Mar 26 18:05:16 2026 - [ALERT] Sensitive file created: C:/Users/Public\secret.pdf
+Thu Mar 26 18:06:09 2026 - [ALERT] Sensitive file modified: C:/Users/Public\secret.pdf
+Thu Mar 26 18:06:09 2026 - [INFO] Initial file baseline created
+Thu Mar 26 18:06:09 2026 - Generated Hash: 0c06d6fde07414dffe229962d20ca1c47c4f9cb8d6d3ec7f4e30a00a7ef24f34
+Thu Mar 26 18:06:21 2026 - [ALERT] Sensitive file modified: C:/Users/Public\secret.pdf
+Thu Mar 26 18:11:57 2026 - [ALERT] Sensitive file created: C:/Users/Public\secret.pdf
+Thu Mar 26 18:12:08 2026 - [ALERT] Sensitive file modified: C:/Users/Public\secret.pdf
+Thu Mar 26 18:12:08 2026 - [INFO] Initial file baseline created
+Thu Mar 26 18:12:08 2026 - Generated Hash: cfb1de509dc8069a43ea81de8f6e10edfaaa6d2b2a74933694a6c7baebb02ba9
+Thu Mar 26 18:12:17 2026 - [ALERT] Sensitive file modified: C:/Users/Public\secret.pdf
+Thu Mar 26 18:12:17 2026 - [WARNING] Unauthorized modification detected!
+Thu Mar 26 18:12:17 2026 - Generated Hash: 8193494d0008f88ff78031578177abbc853d92a581cd1618360c383cc54b4e95
+Thu Mar 26 18:12:31 2026 - [ALERT] Sensitive file modified: C:/Users/Public\secret.pdf
+Thu Mar 26 18:12:31 2026 - [WARNING] Unauthorized modification detected!
+Thu Mar 26 18:12:31 2026 - Generated Hash: 4856b09d69cdcfa3b1dc7c31f95051d3355fbebd0b2a64428867c073efbdd2d8
+Thu Mar 26 18:14:44 2026 - [INFO] File modified: C:/Users/Public\Desktop\Google Chrome.lnk (Non-sensitive)
+Thu Mar 26 18:14:44 2026 - Generated Hash: 07814f7242e96913baf9dc45dc8c062d1d14c5db062d075a2938ec730ca0b09f
+Thu Mar 26 18:14:44 2026 - [INFO] File modified: C:/Users/Public\Desktop\Microsoft Edge.lnk (Non-sensitive)
+Thu Mar 26 18:14:44 2026 - Generated Hash: de7d58e7c64eabbdb679cdf5fbe38a3742d5bfb823ee96432a76aad6e7cf3c76
+Thu Mar 26 18:14:44 2026 - [INFO] File modified: C:/Users/Public\Desktop\VMware Workstation Pro.lnk (Non-sensitive)
+Thu Mar 26 18:14:44 2026 - Generated Hash: 2da3c07c81a778b8f7f2a3077b7061bd7a78efba0a606e741960f3f4d53fcce4

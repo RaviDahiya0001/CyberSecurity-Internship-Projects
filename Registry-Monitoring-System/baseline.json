@@ -1,0 +1,6 @@
+{
+    "Software\\Microsoft\\Windows\\CurrentVersion\\Run": {
+        "SecurityHealth": "%windir%\\system32\\SecurityHealthSystray.exe",
+        "RtkAudUService": "\"C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_1c5e940d4ffae802\\RtkAudUService64.exe\" -background"
+    }
+}

@@ -1,0 +1,100 @@
+2026-03-21 15:42:10.008659 - New Entry: New Value #1
+2026-03-21 15:42:20.023364 - New Entry: New Value #1
+2026-03-21 15:42:30.024559 - New Entry: New Value #1
+2026-03-21 15:42:40.028004 - New Entry: test123
+2026-03-21 15:42:50.029926 - New Entry: test123
+2026-03-21 15:43:00.032643 - New Entry: test123
+2026-03-21 15:43:10.035759 - New Entry: test123
+2026-03-21 15:43:20.038541 - New Entry: test123
+2026-03-21 15:43:30.041503 - New Entry: test123
+2026-03-21 15:43:40.043033 - New Entry: test123
+2026-03-21 15:43:50.045743 - New Entry: test123
+2026-03-21 15:44:00.049306 - New Entry: test123
+2026-03-21 15:44:44.860534 - New Entry: test123
+2026-03-21 15:45:04.868616 - Deleted Entry: test123
+2026-03-21 15:45:24.874448 - New Entry: test123
+2026-03-21 15:45:44.887975 - Deleted Entry: test123
+2026-03-21 15:49:32.081799 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:32.081799 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:32.092720 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:32.092720 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:32.092720 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:32.092720 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:32.092720 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:32.097280 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.099542 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.102676 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.103513 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.103513 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.103513 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.105826 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.107150 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:42.107915 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.109278 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.109278 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.109278 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.121965 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.121965 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.141863 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.146500 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:49:52.155446 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.158234 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.158234 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.158234 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.161938 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.163429 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.165443 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.166942 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:02.166942 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.173708 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.176573 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.181812 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.183436 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.190221 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.190843 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.198686 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:12.204714 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.215393 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.217667 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.221581 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.225936 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.225936 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.235616 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.242324 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:22.250964 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.258518 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.258518 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.264329 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.264329 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.270942 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.278541 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.287042 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:32.304002 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.309745 - New Entry: HPSEU_Host_Launcher in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.309745 - New Entry: OneDrive in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.309745 - Deleted Entry: SecurityHealth from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.309745 - Deleted Entry: RtkAudUService from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.309745 - New Entry: SecurityHealth in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.309745 - New Entry: RtkAudUService in Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.317647 - Deleted Entry: HPSEU_Host_Launcher from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:50:42.318937 - Deleted Entry: OneDrive from Software\Microsoft\Windows\CurrentVersion\Run
+2026-03-21 15:51:40.205971 - New Entry: test_malware
+2026-03-21 15:51:40.208835 - Deleted Entry: test_malware
+2026-03-21 15:51:50.209899 - New Entry: test_malware
+2026-03-21 15:51:50.209899 - Deleted Entry: test_malware
+2026-03-21 15:52:00.214800 - New Entry: test_malware
+2026-03-21 15:52:00.215664 - Deleted Entry: test_malware
+2026-03-21 15:52:10.219010 - New Entry: test_malware
+2026-03-21 15:52:10.219010 - Deleted Entry: test_malware
+2026-03-21 15:52:20.223977 - New Entry: test_malware
+2026-03-21 15:52:20.223977 - Deleted Entry: test_malware
+2026-03-21 15:52:30.230654 - New Entry: test_malware
+2026-03-21 15:52:30.230654 - Deleted Entry: test_malware
+2026-03-21 15:52:40.241724 - New Entry: test_malware
+2026-03-21 15:52:40.241724 - Deleted Entry: test_malware
+2026-03-21 15:52:50.248981 - New Entry: test_malware
+2026-03-21 15:52:50.252993 - Deleted Entry: test_malware
+2026-03-21 15:53:00.255186 - New Entry: test_malware
+2026-03-21 15:53:00.259470 - Deleted Entry: test_malware
+2026-03-21 15:53:10.261054 - New Entry: test_malware
+2026-03-21 15:53:10.261054 - Deleted Entry: test_malware

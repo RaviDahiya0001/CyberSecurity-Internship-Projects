@@ -1,0 +1,4 @@
+bad-site.com
+malware.com
+google.com
+example.com

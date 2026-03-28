@@ -1,0 +1,51 @@
+=== Password Security Audit Report ===
+
+Generated on: 2026-03-28 18:07:39.423458
+
+---- Password Strength Analysis ----
+
+Password: 12101999123
+Score: 2 | Strength: Weak | Entropy: 36.54
+
+Password: 123456
+Score: 1 | Strength: Weak | Entropy: 19.93
+
+Password: ravi12101999
+Score: 3 | Strength: Medium | Entropy: 62.04
+
+Password: password
+Score: 2 | Strength: Weak | Entropy: 37.6
+
+Password: 12101999
+Score: 2 | Strength: Weak | Entropy: 26.58
+
+Password: welcome
+Score: 1 | Strength: Weak | Entropy: 32.9
+
+Password: admin
+Score: 1 | Strength: Weak | Entropy: 23.5
+
+Password: Ravi@123
+Score: 5 | Strength: Strong | Entropy: 49.36
+
+Password: ravi123
+Score: 2 | Strength: Weak | Entropy: 36.19
+
+Password: ravi
+Score: 1 | Strength: Weak | Entropy: 18.8
+
+
+Total Weak Passwords: 8
+
+---- Brute Force Simulation ----
+
+Target Password: ravi
+Attempts: 841905
+Time Taken: 0.1 seconds
+
+---- Security Recommendations ----
+
+- Use strong passwords (min 8 characters)
+- Include uppercase, lowercase, numbers, and symbols
+- Avoid common passwords
+- Use multi-factor authentication

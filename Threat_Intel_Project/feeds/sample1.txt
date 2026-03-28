@@ -1,0 +1,8 @@
+192.168.1.1
+192.168.1.1
+malicious.com
+http://bad-site.com
+http://bad-site.com
+test@gmail.com
+malware.com
+malware.com
